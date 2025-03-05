@@ -1,3 +1,5 @@
-hi i'am eejune
+Hi i'am eejune
 
-iam using c++, java
+I am using c++, java
+
+CS study repository
